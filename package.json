@@ -1,0 +1,11 @@
+{
+  "name": "instance-scheduler-service",
+  "version": "0.0.1",
+  "description": "Service that periodically checks whether to start/stop instances based on EC2 tags.",
+  "main": "index.js",
+  "author": "Andrea Amorosi",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.550.0"
+  }
+}

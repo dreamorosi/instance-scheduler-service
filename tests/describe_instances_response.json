@@ -1,0 +1,25 @@
+{
+    "Reservations": [
+        {
+            "Instances": [
+                {
+                    "InstanceId": "i-0ffb1c805b94b6180",
+                    "Tags": [
+                        {
+                            "Key": "OS",
+                            "Value": "linux"
+                        },
+                        {
+                            "Key": "service:start",
+                            "Value": "8"
+                        },
+                        {
+                            "Key": "service:stop",
+                            "Value": "23"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
